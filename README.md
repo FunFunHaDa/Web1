@@ -1,2 +1,2 @@
 # Web
-[Deployment](https://github.com/FunFunHaDa/Web1/edit/master/README.md "Heading link")
+[Deployment](https://funfunhada.github.io/Web1/index.html "Heading link")
